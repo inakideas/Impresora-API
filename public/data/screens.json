@@ -1,0 +1,58 @@
+[
+{
+"empresa": "9",
+"restaurante": "9",
+"codigo": "1",
+"situacion": "A",
+"nombre": "FRIOS",
+"nom_imp": "Barra",
+"observ": "",
+"bloq": "0",
+"control": "",
+"num_tickets": "1",
+"TipoImpresora": "1",
+"imprimir_un_ticket_por_tipo_plato": "N"
+},
+{
+"empresa": "9",
+"restaurante": "9",
+"codigo": "2",
+"situacion": "A",
+"nombre": "MONTADITOS",
+"nom_imp": "Cocina",
+"observ": "",
+"bloq": "0",
+"control": "",
+"num_tickets": "1",
+"TipoImpresora": "1",
+"imprimir_un_ticket_por_tipo_plato": "N"
+},
+{
+"empresa": "9",
+"restaurante": "9",
+"codigo": "3",
+"situacion": "A",
+"nombre": "PARRILLA",
+"nom_imp": "",
+"observ": "",
+"bloq": "0",
+"control": "",
+"num_tickets": "1",
+"TipoImpresora": "1",
+"imprimir_un_ticket_por_tipo_plato": "N"
+},
+{
+"empresa": "9",
+"restaurante": "9",
+"codigo": "4",
+"situacion": "A",
+"nombre": "DULCES",
+"nom_imp": "",
+"observ": "",
+"bloq": "0",
+"control": "",
+"num_tickets": "1",
+"TipoImpresora": "1",
+"imprimir_un_ticket_por_tipo_plato": "N"
+}
+]
